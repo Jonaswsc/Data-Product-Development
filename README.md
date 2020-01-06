@@ -6,6 +6,7 @@ it contains global suicidal data with year, sex, age group, number of suicide, s
 2) countries.csv: 
 it contains the longtitude and latitude 
 *(it will join with suicidal data.csv at line 32 according to the country name)*
+
 two R file:
 3) suicidal ETL.R: 
 contain code for data tidying and creating random forest predictive model
