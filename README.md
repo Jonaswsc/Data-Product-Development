@@ -1,5 +1,6 @@
 # Data-Product-Development
 There are in total 4 files in the Assigment 2 file which include:
+
 two csv file : 
 1) Suicidal data.csv: 
 it contains global suicidal data with year, sex, age group, number of suicide, suicidal rate in 100K population, countries,earnings, etc.
@@ -7,7 +8,7 @@ it contains global suicidal data with year, sex, age group, number of suicide, s
 it contains the longtitude and latitude 
 *(it will join with suicidal data.csv at line 32 according to the country name)*
 
-two R file:
+two R file :
 3) suicidal ETL.R: 
 contain code for data tidying and creating random forest predictive model
 4) app.R: 
