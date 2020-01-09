@@ -18,7 +18,7 @@ steps:
 2) Open the suicidal_ETL.R file and run the file
 **(P.S. Please adjust line 15 to own workspace)**
 **(P.S. suicidedata.csv file and suicideMLrandomforest.rda file will be created at line 111 and 113 respectively)**
-3) Open the app.R and run the file
+3) Open the app_suicide.R and run the file
 
 
 
