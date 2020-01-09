@@ -2,7 +2,7 @@
 There are in total 4 files in the Assigment 2 file which include:
 
 two csv file (1, 2) and two R file (3, 4):
-1) Suicidal data.csv: 
+1) Suicidal_data.csv: 
 it contains global suicidal data with year, sex, age group, number of suicide, suicidal rate in 100K population, countries,earnings, etc.
 
 2) countries.csv: 
@@ -14,7 +14,7 @@ contain code for data tidying and creating random forest predictive model
 for creating r shiny application
 
 steps:
-1) Open the suicidal ETL.R file and run the file
+1) Open the suicidal_ETL.R file and run the file
 **(P.S. Please adjust line 15 to own workspace)**
 2) Run the code
 **(P.S. suicidedata.csv file and suicideMLrandomforest.rda file will be created at line 111 and 113 respectively)**
